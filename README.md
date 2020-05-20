@@ -13,7 +13,7 @@ Early-stopping techniques can be implemented to save the best version of the age
 ## Getting Started
 
 1. Activate conda environment with dependencies installed
-2. Run atari.py
+2. Run lunar_lander.py
 
 ### Prerequisites
 
