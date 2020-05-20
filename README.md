@@ -34,6 +34,4 @@ Other dependencies include:
 
 This project was built referencing research papers on applying Q-learning with deep neural networks
 
-**https://deepmind.com/research/publications/human-level-control-through-deep-reinforcement-learning**
-
-**https://arxiv.org/abs/1509.06461**
+**https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf**
